@@ -1,2 +1,2 @@
 # Домашні завдання з курсу Python для аналізу даних
-- - робота з JupyterLab
+- My_first_notebook.ipynb - робота з JupyterLab
