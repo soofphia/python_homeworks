@@ -7,3 +7,4 @@
 - hw_1_2_4_If_else.ipynb - Домашнє завдання: Control Flow
 - hw_1_3_1_1_3_2_Цикл_for.ipynb - Домашнє завдання: Цикл for
 - hw_1_3_3_Comprehensions.ipynb - Домашнє завдання: Comprehension в Python
+- hw_1_3_4_Цикл_while.ipynb - Домашнє завдання: Цикл while
