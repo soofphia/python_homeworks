@@ -9,3 +9,4 @@
 - hw_1_3_3_Comprehensions.ipynb - Домашнє завдання: Comprehension в Python
 - hw_1_3_4_Цикл_while.ipynb - Домашнє завдання: Цикл while
 - 2_1_Функціїї_Основи.ipynb - Домашнє завдання: Функції. Основи.
+- hw_3_1_Введення_у_Pandas_та_NumPy_.ipynb - Домашнє завдання: Введення у Pandas та Numpy
